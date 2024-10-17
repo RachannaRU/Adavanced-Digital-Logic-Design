@@ -1,9 +1,9 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: Pavan Prakash
+// Engineer: Rachanna Ullagaddi
 // 
-// Create Date: 18.11.2023 22:02:27
+// Create Date: 18.09.2024 22:02:27
 // Design Name: 
 // Module Name: i2c_master
 // Project Name: 
