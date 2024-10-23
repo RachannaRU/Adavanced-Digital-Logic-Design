@@ -23,3 +23,6 @@ This section has the the basic learning and the basic verilog codes along with t
 ## SOC (System on chip)
 
 This is Instituitional Research program where we are working on building a SOC of RISC V processor where the various pheripherals are integrated. My work has the work of I2C. This repo contains the main blocks of I2C those are Master and Controller and integrated by generating IP(Intelectual Property). Rest details cannot be disclosed.
+
+## Processor
+In this section I I have uploaded the verilog code along with testbench for MIPS32 processor and a 3 stage pipeline processor.
